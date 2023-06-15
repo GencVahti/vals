@@ -1,0 +1,4 @@
+POSTGRES_DB: testdb
+POSTGRES_HOST: testpostgres
+POSTGRES_PASSWORD: test1234
+POSTGRES_USER: testadmin
